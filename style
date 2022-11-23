@@ -1,0 +1,30 @@
+body{
+    margin:0;
+}
+#header{
+background-color:blueviolet;
+padding:15px 250px;
+font-size: 25px;
+position: sticky;
+    top:0;
+    z-index: 10;
+    word-spacing: 10px;
+}
+#footer{
+display:flex;
+gap:10%;
+padding:30px 250px;
+background-color:rgb(233, 232, 232);
+
+}
+#ok {
+    text-align:left;
+}
+
+ul {
+
+        list-style-type: none;
+    }
+li:first-child{
+    font-weight:800;
+}
